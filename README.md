@@ -13,6 +13,7 @@ This is a Unix epoch timestamp, which is based on the number of seconds elapsed
 since midnight UTC, Thursday, January 1, 1970. For example, the timestamp
 1612888888 corresponds to Tuesday, February 9, 2021 6:41:28 PM GMT+02:00. This
 timestamp would be represented in the block by 0x6022bb38
+
 • Data:
 - AUB ID number: 4 bytes. The ID number is treated like a 32-bit unsigned
 integer. For example, 202212345 is represented by 0x0c0d83f9 in the
