@@ -6,6 +6,7 @@ In this assignment, you will simulate “mining” your personal information (fu
 and AUB ID number) using SHA-256 and Bitcoin-style Proof-of-Work.
 
 Your personal information block consists of the following bytes:
+
 • Previous block hash: 32 bytes
 • Nonce: 4 bytes
 • Timestamp: 4 bytes
